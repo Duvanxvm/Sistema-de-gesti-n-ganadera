@@ -1,0 +1,15 @@
+﻿  alimentacion.cpp
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\alimentacion.cpp(77,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ganancias.cpp
+  produccionLeche.cpp
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\produccionLeche.cpp(31,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\produccionLeche.cpp(302,22): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Proyecto-de-fundamentos.cpp
+  registro.cpp
+  salud.cpp
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\salud.cpp(158,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\salud.cpp(159,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\salud.cpp(194,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\Proyecto-de-fundamentos\salud.cpp(222,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  Proyecto-de-fundamentos.vcxproj -> C:\Users\vmduv\source\repos\Proyecto-de-fundamentos\x64\Debug\Proyecto-de-fundamentos.exe
